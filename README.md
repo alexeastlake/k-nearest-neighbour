@@ -1,5 +1,5 @@
 # k-nearest-neighbour
-An implementation of the K-nearest neighbour machine learning algorithm.
+An implementation of the k-nearest neighbour machine learning algorithm.
 
 The program takes a data file name as an argument:
 
